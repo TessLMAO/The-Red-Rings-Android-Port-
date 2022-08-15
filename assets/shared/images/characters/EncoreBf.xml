@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EncoreBf.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ENcoreBF_Idle0000" x="0" y="0" width="290" height="445" frameX="-4" frameY="-7" frameWidth="296" frameHeight="452"/>
+	<SubTexture name="ENcoreBF_Idle0001" x="0" y="0" width="290" height="445" frameX="-4" frameY="-7" frameWidth="296" frameHeight="452"/>
+	<SubTexture name="ENcoreBF_Idle0002" x="290" y="0" width="296" height="446" frameX="0" frameY="-6" frameWidth="296" frameHeight="452"/>
+	<SubTexture name="ENcoreBF_Idle0003" x="290" y="0" width="296" height="446" frameX="0" frameY="-6" frameWidth="296" frameHeight="452"/>
+	<SubTexture name="ENcoreBF_Idle0004" x="586" y="0" width="293" height="449" frameX="0" frameY="-3" frameWidth="296" frameHeight="452"/>
+	<SubTexture name="ENcoreBF_Idle0005" x="586" y="0" width="293" height="449" frameX="0" frameY="-3" frameWidth="296" frameHeight="452"/>
+	<SubTexture name="ENcoreBF_Idle0006" x="879" y="0" width="291" height="451" frameX="-1" frameY="-1" frameWidth="296" frameHeight="452"/>
+	<SubTexture name="ENcoreBF_Idle0007" x="879" y="0" width="291" height="451" frameX="-1" frameY="-1" frameWidth="296" frameHeight="452"/>
+	<SubTexture name="ENcoreBF_Idle0008" x="1170" y="0" width="290" height="451" frameX="-2" frameY="-1" frameWidth="296" frameHeight="452"/>
+	<SubTexture name="ENcoreBF_Idle0009" x="1170" y="0" width="290" height="451" frameX="-2" frameY="-1" frameWidth="296" frameHeight="452"/>
+	<SubTexture name="ENcoreBF_Idle0010" x="1460" y="0" width="289" height="452" frameX="-3" frameY="0" frameWidth="296" frameHeight="452"/>
+	<SubTexture name="ENcoreBF_Idle0011" x="1460" y="0" width="289" height="452" frameX="-3" frameY="0" frameWidth="296" frameHeight="452"/>
+	<SubTexture name="ENcoreBF_Idle0012" x="1749" y="0" width="288" height="452" frameX="-3" frameY="0" frameWidth="296" frameHeight="452"/>
+	<SubTexture name="ENcoreBF_Idle0013" x="1749" y="0" width="288" height="452" frameX="-3" frameY="0" frameWidth="296" frameHeight="452"/>
+	<SubTexture name="EncoreBF_Left0000" x="0" y="452" width="461" height="445" frameX="0" frameY="-4" frameWidth="468" frameHeight="449"/>
+	<SubTexture name="EncoreBF_Left0001" x="0" y="452" width="461" height="445" frameX="0" frameY="-4" frameWidth="468" frameHeight="449"/>
+	<SubTexture name="EncoreBF_Left0002" x="461" y="452" width="466" height="447" frameX="0" frameY="-2" frameWidth="468" frameHeight="449"/>
+	<SubTexture name="EncoreBF_Left0003" x="461" y="452" width="466" height="447" frameX="0" frameY="-2" frameWidth="468" frameHeight="449"/>
+	<SubTexture name="EncoreBF_Left0004" x="927" y="452" width="464" height="448" frameX="-3" frameY="-1" frameWidth="468" frameHeight="449"/>
+	<SubTexture name="EncoreBF_Left0005" x="927" y="452" width="464" height="448" frameX="-3" frameY="-1" frameWidth="468" frameHeight="449"/>
+	<SubTexture name="EncoreBF_Left0006" x="1391" y="452" width="464" height="449" frameX="-4" frameY="0" frameWidth="468" frameHeight="449"/>
+	<SubTexture name="EncoreBF_Left0007" x="1391" y="452" width="464" height="449" frameX="-4" frameY="0" frameWidth="468" frameHeight="449"/>
+	<SubTexture name="EncoreBF_Left0008" x="0" y="901" width="464" height="449" frameX="-4" frameY="0" frameWidth="468" frameHeight="449"/>
+	<SubTexture name="EncoreBF_Left0009" x="0" y="901" width="464" height="449" frameX="-4" frameY="0" frameWidth="468" frameHeight="449"/>
+	<SubTexture name="EncoreBF_Left0010" x="0" y="901" width="464" height="449" frameX="-4" frameY="0" frameWidth="468" frameHeight="449"/>
+	<SubTexture name="EncoreBF_Left0011" x="0" y="901" width="464" height="449" frameX="-4" frameY="0" frameWidth="468" frameHeight="449"/>
+	<SubTexture name="EncoreBF_Left0012" x="0" y="901" width="464" height="449" frameX="-4" frameY="0" frameWidth="468" frameHeight="449"/>
+	<SubTexture name="EncoreBF_Left0013" x="0" y="901" width="464" height="449" frameX="-4" frameY="0" frameWidth="468" frameHeight="449"/>
+	<SubTexture name="EncoreBF_Left0014" x="0" y="901" width="464" height="449" frameX="-4" frameY="0" frameWidth="468" frameHeight="449"/>
+	<SubTexture name="EncoreBF_MISS_Left 0000" x="0" y="452" width="461" height="445" frameX="0" frameY="-2" frameWidth="468" frameHeight="449"/>
+	<SubTexture name="EncoreBF_MISS_Left 0001" x="464" y="901" width="466" height="447" frameX="-2" frameY="0" frameWidth="468" frameHeight="447"/>
+	<SubTexture name="EncoreBF_MISS_Left 0002" x="464" y="901" width="466" height="447" frameX="-2" frameY="0" frameWidth="468" frameHeight="447"/>
+	<SubTexture name="EncoreBF_MISS_Left 0003" x="930" y="901" width="466" height="447" frameX="0" frameY="0" frameWidth="468" frameHeight="447"/>
+	<SubTexture name="EncoreBF_MISS_Left 0004" x="930" y="901" width="466" height="447" frameX="0" frameY="0" frameWidth="468" frameHeight="447"/>
+	<SubTexture name="EncoreBF_MISS_Left 0005" x="930" y="901" width="466" height="447" frameX="0" frameY="0" frameWidth="468" frameHeight="447"/>
+	<SubTexture name="EncoreBF_MISS_Left 0006" x="930" y="901" width="466" height="447" frameX="0" frameY="0" frameWidth="468" frameHeight="447"/>
+	<SubTexture name="EncoreBF_MISS_Left 0007" x="930" y="901" width="466" height="447" frameX="0" frameY="0" frameWidth="468" frameHeight="447"/>
+	<SubTexture name="EncoreBF_MISS_Left 0008" x="930" y="901" width="466" height="447" frameX="0" frameY="0" frameWidth="468" frameHeight="447"/>
+	<SubTexture name="EncoreBF_MISS_Left 0009" x="930" y="901" width="466" height="447" frameX="0" frameY="0" frameWidth="468" frameHeight="447"/>
+	<SubTexture name="EncoreBF_MISS_Left 0010" x="930" y="901" width="466" height="447" frameX="0" frameY="0" frameWidth="468" frameHeight="447"/>
+	<SubTexture name="EncoreBF_MISS_Left 0011" x="930" y="901" width="466" height="447" frameX="0" frameY="0" frameWidth="468" frameHeight="447"/>
+	<SubTexture name="EncoreBF_MISS_Left 0012" x="930" y="901" width="466" height="447" frameX="0" frameY="0" frameWidth="468" frameHeight="447"/>
+	<SubTexture name="EncoreBF_MISS_Left 0013" x="930" y="901" width="466" height="447" frameX="0" frameY="0" frameWidth="468" frameHeight="447"/>
+	<SubTexture name="EncoreBF_MISS_Left 0014" x="930" y="901" width="466" height="447" frameX="0" frameY="0" frameWidth="468" frameHeight="447"/>
+	<SubTexture name="EncoreBF_MISS_Right0000" x="1396" y="901" width="370" height="434" frameX="-3" frameY="0" frameWidth="373" frameHeight="434"/>
+	<SubTexture name="EncoreBF_MISS_Right0001" x="0" y="1350" width="371" height="434" frameX="0" frameY="0" frameWidth="373" frameHeight="434"/>
+	<SubTexture name="EncoreBF_MISS_Right0002" x="0" y="1350" width="371" height="434" frameX="0" frameY="0" frameWidth="373" frameHeight="434"/>
+	<SubTexture name="EncoreBF_MISS_Right0003" x="371" y="1350" width="370" height="434" frameX="-2" frameY="0" frameWidth="373" frameHeight="434"/>
+	<SubTexture name="EncoreBF_MISS_Right0004" x="371" y="1350" width="370" height="434" frameX="-2" frameY="0" frameWidth="373" frameHeight="434"/>
+	<SubTexture name="EncoreBF_MISS_Right0005" x="371" y="1350" width="370" height="434" frameX="-2" frameY="0" frameWidth="373" frameHeight="434"/>
+	<SubTexture name="EncoreBF_MISS_Right0006" x="371" y="1350" width="370" height="434" frameX="-2" frameY="0" frameWidth="373" frameHeight="434"/>
+	<SubTexture name="EncoreBF_MISS_Right0007" x="371" y="1350" width="370" height="434" frameX="-2" frameY="0" frameWidth="373" frameHeight="434"/>
+	<SubTexture name="EncoreBF_MISS_Right0008" x="371" y="1350" width="370" height="434" frameX="-2" frameY="0" frameWidth="373" frameHeight="434"/>
+	<SubTexture name="EncoreBF_MISS_Right0009" x="371" y="1350" width="370" height="434" frameX="-2" frameY="0" frameWidth="373" frameHeight="434"/>
+	<SubTexture name="EncoreBF_MISS_Right0010" x="371" y="1350" width="370" height="434" frameX="-2" frameY="0" frameWidth="373" frameHeight="434"/>
+	<SubTexture name="EncoreBF_MISS_Right0011" x="371" y="1350" width="370" height="434" frameX="-2" frameY="0" frameWidth="373" frameHeight="434"/>
+	<SubTexture name="EncoreBF_MISS_Right0012" x="371" y="1350" width="370" height="434" frameX="-2" frameY="0" frameWidth="373" frameHeight="434"/>
+	<SubTexture name="EncoreBF_MISS_Right0013" x="371" y="1350" width="370" height="434" frameX="-2" frameY="0" frameWidth="373" frameHeight="434"/>
+	<SubTexture name="EncoreBF_MISS_Right0014" x="371" y="1350" width="370" height="434" frameX="-2" frameY="0" frameWidth="373" frameHeight="434"/>
+	<SubTexture name="EncoreBF_MISS_Up 0000" x="0" y="2278" width="404" height="498" frameX="-3" frameY="0" frameWidth="413" frameHeight="498"/>
+	<SubTexture name="EncoreBF_MISS_Up 0001" x="741" y="1350" width="418" height="490" frameX="0" frameY="-8" frameWidth="418" frameHeight="498"/>
+	<SubTexture name="EncoreBF_MISS_Up 0002" x="741" y="1350" width="418" height="490" frameX="0" frameY="-8" frameWidth="418" frameHeight="498"/>
+	<SubTexture name="EncoreBF_MISS_Up 0003" x="1159" y="1350" width="412" height="492" frameX="-2" frameY="-6" frameWidth="418" frameHeight="498"/>
+	<SubTexture name="EncoreBF_MISS_Up 0004" x="1159" y="1350" width="412" height="492" frameX="-2" frameY="-6" frameWidth="418" frameHeight="498"/>
+	<SubTexture name="EncoreBF_MISS_Up 0005" x="1159" y="1350" width="412" height="492" frameX="-2" frameY="-6" frameWidth="418" frameHeight="498"/>
+	<SubTexture name="EncoreBF_MISS_Up 0006" x="1159" y="1350" width="412" height="492" frameX="-2" frameY="-6" frameWidth="418" frameHeight="498"/>
+	<SubTexture name="EncoreBF_MISS_Up 0007" x="1159" y="1350" width="412" height="492" frameX="-2" frameY="-6" frameWidth="418" frameHeight="498"/>
+	<SubTexture name="EncoreBF_MISS_Up 0008" x="1159" y="1350" width="412" height="492" frameX="-2" frameY="-6" frameWidth="418" frameHeight="498"/>
+	<SubTexture name="EncoreBF_MISS_Up 0009" x="1159" y="1350" width="412" height="492" frameX="-2" frameY="-6" frameWidth="418" frameHeight="498"/>
+	<SubTexture name="EncoreBF_MISS_Up 0010" x="1159" y="1350" width="412" height="492" frameX="-2" frameY="-6" frameWidth="418" frameHeight="498"/>
+	<SubTexture name="EncoreBF_MISS_Up 0011" x="1159" y="1350" width="412" height="492" frameX="-2" frameY="-6" frameWidth="418" frameHeight="498"/>
+	<SubTexture name="EncoreBF_MISS_Up 0012" x="1159" y="1350" width="412" height="492" frameX="-2" frameY="-6" frameWidth="418" frameHeight="498"/>
+	<SubTexture name="EncoreBF_MISS_Up 0013" x="1159" y="1350" width="412" height="492" frameX="-2" frameY="-6" frameWidth="418" frameHeight="498"/>
+	<SubTexture name="EncoreBF_MISS_Up 0014" x="1159" y="1350" width="412" height="492" frameX="-2" frameY="-6" frameWidth="418" frameHeight="498"/>
+	<SubTexture name="EncoreBF_MISS_down0000" x="413" y="2776" width="313" height="407" frameX="0" frameY="-9" frameWidth="313" frameHeight="416"/>
+	<SubTexture name="EncoreBF_MISS_down0001" x="1571" y="1350" width="306" height="417" frameX="-2" frameY="0" frameWidth="313" frameHeight="417"/>
+	<SubTexture name="EncoreBF_MISS_down0002" x="1571" y="1350" width="306" height="417" frameX="-2" frameY="0" frameWidth="313" frameHeight="417"/>
+	<SubTexture name="EncoreBF_MISS_down0003" x="0" y="1842" width="309" height="414" frameX="0" frameY="-2" frameWidth="313" frameHeight="417"/>
+	<SubTexture name="EncoreBF_MISS_down0004" x="0" y="1842" width="309" height="414" frameX="0" frameY="-2" frameWidth="313" frameHeight="417"/>
+	<SubTexture name="EncoreBF_MISS_down0005" x="0" y="1842" width="309" height="414" frameX="0" frameY="-2" frameWidth="313" frameHeight="417"/>
+	<SubTexture name="EncoreBF_MISS_down0006" x="0" y="1842" width="309" height="414" frameX="0" frameY="-2" frameWidth="313" frameHeight="417"/>
+	<SubTexture name="EncoreBF_MISS_down0007" x="0" y="1842" width="309" height="414" frameX="0" frameY="-2" frameWidth="313" frameHeight="417"/>
+	<SubTexture name="EncoreBF_MISS_down0008" x="0" y="1842" width="309" height="414" frameX="0" frameY="-2" frameWidth="313" frameHeight="417"/>
+	<SubTexture name="EncoreBF_MISS_down0009" x="0" y="1842" width="309" height="414" frameX="0" frameY="-2" frameWidth="313" frameHeight="417"/>
+	<SubTexture name="EncoreBF_MISS_down0010" x="0" y="1842" width="309" height="414" frameX="0" frameY="-2" frameWidth="313" frameHeight="417"/>
+	<SubTexture name="EncoreBF_MISS_down0011" x="0" y="1842" width="309" height="414" frameX="0" frameY="-2" frameWidth="313" frameHeight="417"/>
+	<SubTexture name="EncoreBF_MISS_down0012" x="0" y="1842" width="309" height="414" frameX="0" frameY="-2" frameWidth="313" frameHeight="417"/>
+	<SubTexture name="EncoreBF_MISS_down0013" x="0" y="1842" width="309" height="414" frameX="0" frameY="-2" frameWidth="313" frameHeight="417"/>
+	<SubTexture name="EncoreBF_MISS_down0014" x="0" y="1842" width="309" height="414" frameX="0" frameY="-2" frameWidth="313" frameHeight="417"/>
+	<SubTexture name="EncoreBF_Right0000" x="309" y="1842" width="370" height="434" frameX="-3" frameY="-2" frameWidth="373" frameHeight="436"/>
+	<SubTexture name="EncoreBF_Right0001" x="309" y="1842" width="370" height="434" frameX="-3" frameY="-2" frameWidth="373" frameHeight="436"/>
+	<SubTexture name="EncoreBF_Right0002" x="679" y="1842" width="370" height="435" frameX="0" frameY="-1" frameWidth="373" frameHeight="436"/>
+	<SubTexture name="EncoreBF_Right0003" x="679" y="1842" width="370" height="435" frameX="0" frameY="-1" frameWidth="373" frameHeight="436"/>
+	<SubTexture name="EncoreBF_Right0004" x="1049" y="1842" width="369" height="436" frameX="0" frameY="0" frameWidth="373" frameHeight="436"/>
+	<SubTexture name="EncoreBF_Right0005" x="1049" y="1842" width="369" height="436" frameX="0" frameY="0" frameWidth="373" frameHeight="436"/>
+	<SubTexture name="EncoreBF_Right0006" x="1418" y="1842" width="369" height="436" frameX="0" frameY="0" frameWidth="373" frameHeight="436"/>
+	<SubTexture name="EncoreBF_Right0007" x="1418" y="1842" width="369" height="436" frameX="0" frameY="0" frameWidth="373" frameHeight="436"/>
+	<SubTexture name="EncoreBF_Right0008" x="1418" y="1842" width="369" height="436" frameX="0" frameY="0" frameWidth="373" frameHeight="436"/>
+	<SubTexture name="EncoreBF_Right0009" x="1418" y="1842" width="369" height="436" frameX="0" frameY="0" frameWidth="373" frameHeight="436"/>
+	<SubTexture name="EncoreBF_Right0010" x="1418" y="1842" width="369" height="436" frameX="0" frameY="0" frameWidth="373" frameHeight="436"/>
+	<SubTexture name="EncoreBF_Right0011" x="1418" y="1842" width="369" height="436" frameX="0" frameY="0" frameWidth="373" frameHeight="436"/>
+	<SubTexture name="EncoreBF_Right0012" x="1418" y="1842" width="369" height="436" frameX="0" frameY="0" frameWidth="373" frameHeight="436"/>
+	<SubTexture name="EncoreBF_Right0013" x="1418" y="1842" width="369" height="436" frameX="0" frameY="0" frameWidth="373" frameHeight="436"/>
+	<SubTexture name="EncoreBF_Right0014" x="1418" y="1842" width="369" height="436" frameX="0" frameY="0" frameWidth="373" frameHeight="436"/>
+	<SubTexture name="EncoreBF_Up0000" x="0" y="2278" width="404" height="498" frameX="-1" frameY="0" frameWidth="413" frameHeight="498"/>
+	<SubTexture name="EncoreBF_Up0001" x="0" y="2278" width="404" height="498" frameX="-1" frameY="0" frameWidth="413" frameHeight="498"/>
+	<SubTexture name="EncoreBF_Up0002" x="404" y="2278" width="412" height="492" frameX="0" frameY="-6" frameWidth="413" frameHeight="498"/>
+	<SubTexture name="EncoreBF_Up0003" x="404" y="2278" width="412" height="492" frameX="0" frameY="-6" frameWidth="413" frameHeight="498"/>
+	<SubTexture name="EncoreBF_Up0004" x="816" y="2278" width="412" height="491" frameX="-1" frameY="-7" frameWidth="413" frameHeight="498"/>
+	<SubTexture name="EncoreBF_Up0005" x="816" y="2278" width="412" height="491" frameX="-1" frameY="-7" frameWidth="413" frameHeight="498"/>
+	<SubTexture name="EncoreBF_Up0006" x="1228" y="2278" width="413" height="491" frameX="0" frameY="-7" frameWidth="413" frameHeight="498"/>
+	<SubTexture name="EncoreBF_Up0007" x="1228" y="2278" width="413" height="491" frameX="0" frameY="-7" frameWidth="413" frameHeight="498"/>
+	<SubTexture name="EncoreBF_Up0008" x="0" y="2776" width="413" height="491" frameX="0" frameY="-7" frameWidth="413" frameHeight="498"/>
+	<SubTexture name="EncoreBF_Up0009" x="0" y="2776" width="413" height="491" frameX="0" frameY="-7" frameWidth="413" frameHeight="498"/>
+	<SubTexture name="EncoreBF_Up0010" x="0" y="2776" width="413" height="491" frameX="0" frameY="-7" frameWidth="413" frameHeight="498"/>
+	<SubTexture name="EncoreBF_Up0011" x="0" y="2776" width="413" height="491" frameX="0" frameY="-7" frameWidth="413" frameHeight="498"/>
+	<SubTexture name="EncoreBF_Up0012" x="0" y="2776" width="413" height="491" frameX="0" frameY="-7" frameWidth="413" frameHeight="498"/>
+	<SubTexture name="EncoreBF_Up0013" x="0" y="2776" width="413" height="491" frameX="0" frameY="-7" frameWidth="413" frameHeight="498"/>
+	<SubTexture name="EncoreBF_Up0014" x="0" y="2776" width="413" height="491" frameX="0" frameY="-7" frameWidth="413" frameHeight="498"/>
+	<SubTexture name="EncoreBF_down0000" x="413" y="2776" width="313" height="407" frameX="0" frameY="-9" frameWidth="313" frameHeight="416"/>
+	<SubTexture name="EncoreBF_down0001" x="413" y="2776" width="313" height="407" frameX="0" frameY="-9" frameWidth="313" frameHeight="416"/>
+	<SubTexture name="EncoreBF_down0002" x="726" y="2776" width="309" height="414" frameX="0" frameY="-2" frameWidth="313" frameHeight="416"/>
+	<SubTexture name="EncoreBF_down0003" x="726" y="2776" width="309" height="414" frameX="0" frameY="-2" frameWidth="313" frameHeight="416"/>
+	<SubTexture name="EncoreBF_down0004" x="1035" y="2776" width="308" height="416" frameX="0" frameY="0" frameWidth="313" frameHeight="416"/>
+	<SubTexture name="EncoreBF_down0005" x="1035" y="2776" width="308" height="416" frameX="0" frameY="0" frameWidth="313" frameHeight="416"/>
+	<SubTexture name="EncoreBF_down0006" x="1343" y="2776" width="308" height="416" frameX="0" frameY="0" frameWidth="313" frameHeight="416"/>
+	<SubTexture name="EncoreBF_down0007" x="1343" y="2776" width="308" height="416" frameX="0" frameY="0" frameWidth="313" frameHeight="416"/>
+	<SubTexture name="EncoreBF_down0008" x="1651" y="2776" width="308" height="416" frameX="0" frameY="0" frameWidth="313" frameHeight="416"/>
+	<SubTexture name="EncoreBF_down0009" x="1651" y="2776" width="308" height="416" frameX="0" frameY="0" frameWidth="313" frameHeight="416"/>
+	<SubTexture name="EncoreBF_down0010" x="1651" y="2776" width="308" height="416" frameX="0" frameY="0" frameWidth="313" frameHeight="416"/>
+	<SubTexture name="EncoreBF_down0011" x="1651" y="2776" width="308" height="416" frameX="0" frameY="0" frameWidth="313" frameHeight="416"/>
+	<SubTexture name="EncoreBF_down0012" x="1651" y="2776" width="308" height="416" frameX="0" frameY="0" frameWidth="313" frameHeight="416"/>
+	<SubTexture name="EncoreBF_down0013" x="1651" y="2776" width="308" height="416" frameX="0" frameY="0" frameWidth="313" frameHeight="416"/>
+	<SubTexture name="EncoreBF_down0014" x="1651" y="2776" width="308" height="416" frameX="0" frameY="0" frameWidth="313" frameHeight="416"/>
+</TextureAtlas>
